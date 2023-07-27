@@ -1,0 +1,8 @@
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\bin\Debug\WorkingWithFile.exe.config
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\bin\Debug\WorkingWithFile.exe
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\bin\Debug\WorkingWithFile.pdb
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.csproj.AssemblyReference.cache
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.exe
+D:\Simplilearn\Assissted Projects\Section-6\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.pdb
